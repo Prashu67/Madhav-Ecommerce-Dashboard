@@ -55,4 +55,4 @@ Track payment behavior and popular categories
 Support data-driven decision making in real time
 
 ## Screenshots
-Example:(https://github.com/Prashu67/Madhav-Ecommerce-Dashboard/blob/e945e73994c864505229484ef049a12ee65ccf4a/Snapshot%20of%20the%20dashboard.PNG)
+Example:![Dashboard Preview](https://github.com/Prashu67/Madhav-Ecommerce-Dashboard/blob/e945e73994c864505229484ef049a12ee65ccf4a/Snapshot%20of%20the%20dashboard.PNG)
